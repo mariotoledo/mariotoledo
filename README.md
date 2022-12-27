@@ -130,26 +130,4 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mariotoledo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotoledo&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22bzrxs2lsjlzcid5ei7byy3i&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotoledo&hide_border=true&layout=compact" align="left" style="width: 100%" /> 
