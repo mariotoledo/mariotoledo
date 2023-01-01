@@ -106,6 +106,25 @@
 
 <br/>  
 
+## Personal Projects
+
+<table><tr><td valign="top" width="33%">
+<img src="https://www.nparty.com.br/img/sharer.jpg" style="margin: 10px; width: 100%">
+</td><td valign="top" width="17%">
+<a href="https://www.nparty.com.br/" target="_blank">NParty</a>
+</td><td valign="top" width="49%">
+A community/hub for players to connect and interact
+</td></tr>
+
+<tr><td valign="top" width="33%">
+<img src="https://www.subarashow.com.br/imgs/sharer.jpg" style="margin: 10px; width: 100%">
+</td><td valign="top" width="17%">
+<a href="https://www.subarashow.com.br/" target="_blank">Subarashow</a>
+</td><td valign="top" width="49%">
+Podcast about japanese pop culture
+</td></tr>
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
