@@ -123,6 +123,7 @@ A community/hub for players to connect and interact
 </td><td valign="top" width="49%">
 Podcast about japanese pop culture
 </td></tr>
+</table>
 
 <br/>  
 
