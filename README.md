@@ -110,18 +110,51 @@
 
 <table><tr><td valign="top" width="33%">
 <img src="https://www.nparty.com.br/img/sharer.jpg" style="margin: 10px; width: 100%">
-</td><td valign="top" width="17%">
+</td><td valign="middle" width="17%">
 <a href="https://www.nparty.com.br/" target="_blank">NParty</a>
-</td><td valign="top" width="49%">
+</td><td valign="middle" width="49%">
 A community/hub for players to connect and interact
 </td></tr>
 
 <tr><td valign="top" width="33%">
 <img src="https://www.subarashow.com.br/imgs/sharer.jpg" style="margin: 10px; width: 100%">
-</td><td valign="top" width="17%">
+</td><td valign="middle" width="17%">
 <a href="https://www.subarashow.com.br/" target="_blank">Subarashow</a>
-</td><td valign="top" width="49%">
+</td><td valign="middle" width="49%">
 Podcast about japanese pop culture
+</td></tr>
+
+
+<tr><td valign="top" width="33%">
+<img src="https://mariotoledo.me/images/streamow.jpg" style="margin: 10px; width: 100%">
+</td><td valign="middle" width="17%">
+<a href="https://www.streamow.tv/" target="_blank">Streamow</a>
+</td><td valign="middle" width="49%">
+Gaming clips from differnte sources, grouped in a easy interface application, also being published automatically to Twitter.
+</td></tr>
+
+<tr><td valign="top" width="33%">
+<img src="https://mariotoledo.me/images/gamersario.jpg" style="margin: 10px; width: 100%">
+</td><td valign="middle" width="17%">
+<a href="https://gamersar.io/" target="_blank">Gamersario</a>
+</td><td valign="middle" width="49%">
+Discover video-games anniversary. Filter by platform and popularity. Automatically published to Twitter.
+</td></tr>
+
+<tr><td valign="top" width="33%">
+<img src="https://mariotoledo.me/images/animersario.jpg" style="margin: 10px; width: 100%">
+</td><td valign="middle" width="17%">
+<a href="https://animersar.io/" target="_blank">Animersario</a>
+</td><td valign="middle" width="49%">
+Discover anime characters anniversary. Filter by popularity. Automatically published to Twitter.
+</td></tr>
+
+<tr><td valign="top" width="33%">
+<img src="https://mariotoledo.me/images/equatle.jpg" style="margin: 10px; width: 100%">
+</td><td valign="middle" width="17%">
+<a href="http://www.equatle.com/" target="_blank">Equatle</a>
+</td><td valign="middle" width="49%">
+Find the math expression in 5 turns based on the result.
 </td></tr>
 </table>
 
