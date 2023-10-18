@@ -181,6 +181,6 @@ Find the math expression in 5 turns based on the result.
 
 
 ## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariotoledo&show_icons=true&theme=transparent) 
+![mariotoledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariotoledo&show_icons=true&theme=transparent) 
 
-<iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotoledo&hide_border=true&layout=compact" align="left" style="width: 100%" ></iframe>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariotoledo&size_weight=0.5&count_weight=0.5&theme=transparent)
