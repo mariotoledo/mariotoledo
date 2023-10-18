@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/profile_banners/40374740/1555563604/1500x500" align="center" style="width: 100%" />
+<img src="https://pbs.twimg.com/profile_banners/1695230472077422592/1693009943/1500x500" align="center" style="width: 100%" />
 </div>  
   
 
@@ -181,6 +181,6 @@ Find the math expression in 5 turns based on the result.
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mariotoledo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><iframe src="https://github-readme-stats.vercel.app/api?username=mariotoledo&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" ></iframe></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotoledo&hide_border=true&layout=compact" align="left" style="width: 100%" /> 
+<iframe src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariotoledo&hide_border=true&layout=compact" align="left" style="width: 100%" ></iframe>
